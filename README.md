@@ -3,8 +3,7 @@
 <p>
   
 **KidEdu** is a unique Kindergarten HTML Template for Kindergarten
-              Schools with teacher dashbord. With a clean and modern design, the website template will give you maximum user needs. The website
-              is very easy to customize for your kindergarten institute.
+              Schools with teacher dashbord . With HTML, CSS, Scss, Bootstrap, Splide Slider, JavaScript a clean and modern design, the website template will give you maximum user needs.
 </p>
 
 ## Key feature
@@ -18,7 +17,6 @@
                 <li>Fancy Box and AOS Animation</li>
                 <li>Google Fonts Integration</li>
                 <li>Lightweight Codebase</li>
-                <li>W3 Validation Standards</li>
                 <li>Ease of Customization</li>
                 <li>Dynamic Counter Elements</li>
                 <li>Details Understanding of Classes and Teachers</li>
