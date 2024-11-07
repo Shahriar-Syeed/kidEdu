@@ -2,7 +2,7 @@
 
 <p>
   
-** KidEdu ** is a unique Kindergarten HTML Template for Kindergarten
+**KidEdu** is a unique Kindergarten HTML Template for Kindergarten
               Schools with teacher dashbord. With a clean and modern design, the website template will give you maximum user needs. The website
               is very easy to customize for your kindergarten institute.
 </p>
@@ -32,27 +32,27 @@
   
   <caption>Desktop Page </caption>
 
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_1.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_1.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_2.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_2.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_3.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_3.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_4.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_4.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_5.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_5.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_6.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_6.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_7.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_7.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_8.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_8.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_3.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_3.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_9.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_9.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_10.png)
+ ![Desktop View](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_10.png)
  
- ![Desktop View for orange theme](https://github.com/Shahriar-Syeed/kidEdu/blob/main/screenshot/desktop_11.png)
+
   
